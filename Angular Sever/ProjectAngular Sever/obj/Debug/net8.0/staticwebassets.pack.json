@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\1.webp",
+      "PackagePath": "staticwebassets\\1.webp"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\10.jpg",
+      "PackagePath": "staticwebassets\\10.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\11.jpg",
+      "PackagePath": "staticwebassets\\11.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\12.jpg",
+      "PackagePath": "staticwebassets\\12.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\13.jpg",
+      "PackagePath": "staticwebassets\\13.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\14.jpg",
+      "PackagePath": "staticwebassets\\14.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\15.jpg",
+      "PackagePath": "staticwebassets\\15.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\16.jpg",
+      "PackagePath": "staticwebassets\\16.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\17.jpg",
+      "PackagePath": "staticwebassets\\17.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\18.jpg",
+      "PackagePath": "staticwebassets\\18.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\19.jpg",
+      "PackagePath": "staticwebassets\\19.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\2.jpg",
+      "PackagePath": "staticwebassets\\2.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\20.jpg",
+      "PackagePath": "staticwebassets\\20.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\21.webp",
+      "PackagePath": "staticwebassets\\21.webp"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\22.jpg",
+      "PackagePath": "staticwebassets\\22.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\23.jpg",
+      "PackagePath": "staticwebassets\\23.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\24.jpg",
+      "PackagePath": "staticwebassets\\24.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\25.jpg",
+      "PackagePath": "staticwebassets\\25.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\26.jpg",
+      "PackagePath": "staticwebassets\\26.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\3.webp",
+      "PackagePath": "staticwebassets\\3.webp"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\4.jpg",
+      "PackagePath": "staticwebassets\\4.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\5.jpg",
+      "PackagePath": "staticwebassets\\5.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\54.jpg",
+      "PackagePath": "staticwebassets\\54.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\6.jpg",
+      "PackagePath": "staticwebassets\\6.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\7.jpg",
+      "PackagePath": "staticwebassets\\7.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\8.jpg",
+      "PackagePath": "staticwebassets\\8.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\9.jpg",
+      "PackagePath": "staticwebassets\\9.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\aaa.jpg",
+      "PackagePath": "staticwebassets\\aaa.jpg"
+    },
+    {
+      "Id": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjectAngularServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjectAngularServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProjectAngularServer.props",
+      "PackagePath": "build\\ProjectAngularServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectAngularServer.props",
+      "PackagePath": "buildMultiTargeting\\ProjectAngularServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProjectAngularServer.props",
+      "PackagePath": "buildTransitive\\ProjectAngularServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

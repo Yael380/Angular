@@ -1,0 +1,54 @@
+    <link href="https://unpkg.com/primeflex/primeflex.css" rel="stylesheet" />
+    <br/> <br/>
+<div class="card">
+    <p-dataview #dv [value]="cart" >
+        <ng-template #list let-items>
+            @if(cart.length>0){
+            <p-button label="Payment" icon="pi pi-credit-card" (click)="toPay()" severity="contrast" class="pay"/>}
+            <br/> <br/>    
+            @if(openPayment){
+                <app-payment (closeDialog)="closeDialog()"></app-payment>
+            } 
+            <p-card  id="total"header="Total price: {{ totalPrice}}$" ></p-card>
+            <div class="grid grid-cols-12 gap-4 grid-nogutter border" >
+                <div class="col-span-12" *ngFor="let item of items; let first = first" class="col-span-12 bord">
+                    <div
+                        class="flex flex-col sm:flex-row sm:items-center p-6 gap-4"
+                        [ngClass]="{ 'border-t border-surface-200 dark:border-surface-700': !first }"
+                    >
+                        <div class="md:w-40 relative">
+                            <img
+                                class="block xl:block mx-auto rounded-border w-full img"
+                                [src]="'http://localhost:5148/' + item.image"
+                                [alt]="item.name"
+                            />
+                            
+                        </div>
+                        <div class="flex flex-col md:flex-row justify-between md:items-center flex-1 gap-6">
+                            <div class="flex flex-row md:flex-col justify-between items-start gap-4 "style="margin-left: auto;">
+                                <div>
+                                    <span class="font-medium text-secondary text-sm">{{ item.category }}</span>
+                                    <div class="text-lg font-medium text-surface-900 dark:text-surface-0 mt-2 " style="margin-right: auto;">{{ item.name }}</div>
+                                </div>
+                            </div>
+                            <div class="flex flex-col md:items-end gap-8">
+                                <span class="text-xl font-semibold text-surface-900 dark:text-surface-0">{{
+                                    '$' + item.price*item.amount
+                                }}</span>
+                                <div class="flex flex-row-reverse md:flex-row gap-2">
+                                    <p-button icon="pi pi-heart" [outlined]="true" severity="contrast"/>
+                                    <p-button
+                                        icon="pi pi-trash"
+                                        class="flex-auto md:flex-initial whitespace-nowrap"
+                                        label="Delete" (click)="deleteProductCart(item.id)"
+                                        severity="contrast"
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </ng-template>
+    </p-dataview>
+</div>

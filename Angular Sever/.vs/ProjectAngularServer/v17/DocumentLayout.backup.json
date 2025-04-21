@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\projectangular sever\\controllers\\donorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|solutionrelative:projectangular sever\\controllers\\donorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45409CF6-C69E-4E7F-8BE4-E4A2A32D40D8}|Service\\Service.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\service\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45409CF6-C69E-4E7F-8BE4-E4A2A32D40D8}|Service\\Service.csproj|solutionrelative:service\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45409CF6-C69E-4E7F-8BE4-E4A2A32D40D8}|Service\\Service.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\service\\giftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45409CF6-C69E-4E7F-8BE4-E4A2A32D40D8}|Service\\Service.csproj|solutionrelative:service\\giftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9421C4-B109-4E69-A8C4-A188DC025AE3}|Repository\\Repository.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\repository\\donorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9421C4-B109-4E69-A8C4-A188DC025AE3}|Repository\\Repository.csproj|solutionrelative:repository\\donorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9421C4-B109-4E69-A8C4-A188DC025AE3}|Repository\\Repository.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\repository\\giftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9421C4-B109-4E69-A8C4-A188DC025AE3}|Repository\\Repository.csproj|solutionrelative:repository\\giftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\projectangular sever\\projectangularserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|solutionrelative:projectangular sever\\projectangularserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\projectangular sever\\controllers\\giftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|solutionrelative:projectangular sever\\controllers\\giftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\projectangular sever\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|solutionrelative:projectangular sever\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\projectangular sever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|solutionrelative:projectangular sever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E55371-3DE5-4D27-9C13-2BC92DF9B6FB}|Entites\\Entites.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\entites\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E55371-3DE5-4D27-9C13-2BC92DF9B6FB}|Entites\\Entites.csproj|solutionrelative:entites\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E55371-3DE5-4D27-9C13-2BC92DF9B6FB}|Entites\\Entites.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\entites\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E55371-3DE5-4D27-9C13-2BC92DF9B6FB}|Entites\\Entites.csproj|solutionrelative:entites\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E55371-3DE5-4D27-9C13-2BC92DF9B6FB}|Entites\\Entites.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E55371-3DE5-4D27-9C13-2BC92DF9B6FB}|Entites\\Entites.csproj|solutionrelative:entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\projectangular sever\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|solutionrelative:projectangular sever\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45409CF6-C69E-4E7F-8BE4-E4A2A32D40D8}|Service\\Service.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45409CF6-C69E-4E7F-8BE4-E4A2A32D40D8}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\projectangular sever\\projectangularserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|solutionrelative:projectangular sever\\projectangularserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\projectangular sever\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|solutionrelative:projectangular sever\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\projectangular sever\\projectangularserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C497E2F2-FD37-490A-AAEF-97E3E42B3DB4}|ProjectAngular Sever\\ProjectAngularServer.csproj|solutionrelative:projectangular sever\\projectangularserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9421C4-B109-4E69-A8C4-A188DC025AE3}|Repository\\Repository.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectangular sever\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D9421C4-B109-4E69-A8C4-A188DC025AE3}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiftRepository.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Repository\\GiftRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GiftRepository.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Repository\\GiftRepository.cs",
+              "RelativeToolTip": "Repository\\GiftRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:22:39.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectAngular Sever\\Program.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\Program.cs",
+              "RelativeToolTip": "ProjectAngular Sever\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAArwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:22:39.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Entites\\Donor.cs",
+              "RelativeDocumentMoniker": "Entites\\Donor.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Entites\\Donor.cs",
+              "RelativeToolTip": "Entites\\Donor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:43:10.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Entites\\Gift.cs",
+              "RelativeDocumentMoniker": "Entites\\Gift.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Entites\\Gift.cs",
+              "RelativeToolTip": "Entites\\Gift.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:22:39.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonorsController.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\Controllers\\DonorsController.cs",
+              "RelativeDocumentMoniker": "ProjectAngular Sever\\Controllers\\DonorsController.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\Controllers\\DonorsController.cs",
+              "RelativeToolTip": "ProjectAngular Sever\\Controllers\\DonorsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:38:54.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonorService.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Service\\DonorService.cs",
+              "RelativeDocumentMoniker": "Service\\DonorService.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Service\\DonorService.cs",
+              "RelativeToolTip": "Service\\DonorService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:39:55.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonorRepository.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Repository\\DonorRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DonorRepository.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Repository\\DonorRepository.cs",
+              "RelativeToolTip": "Repository\\DonorRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA0wDYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:39:40.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiftService.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Service\\GiftService.cs",
+              "RelativeDocumentMoniker": "Service\\GiftService.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Service\\GiftService.cs",
+              "RelativeToolTip": "Service\\GiftService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:22:39.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagersController.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\Controllers\\ManagersController.cs",
+              "RelativeDocumentMoniker": "ProjectAngular Sever\\Controllers\\ManagersController.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\Controllers\\ManagersController.cs",
+              "RelativeToolTip": "ProjectAngular Sever\\Controllers\\ManagersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:44:11.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectAngularServer.csproj",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\ProjectAngularServer.csproj",
+              "RelativeDocumentMoniker": "ProjectAngular Sever\\ProjectAngularServer.csproj",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\ProjectAngularServer.csproj",
+              "RelativeToolTip": "ProjectAngular Sever\\ProjectAngularServer.csproj",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-31T12:22:39.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GiftsController.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\Controllers\\GiftsController.cs",
+              "RelativeDocumentMoniker": "ProjectAngular Sever\\Controllers\\GiftsController.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\Controllers\\GiftsController.cs",
+              "RelativeToolTip": "ProjectAngular Sever\\Controllers\\GiftsController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:22:39.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectAngular Sever\\appsettings.json",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\appsettings.json",
+              "RelativeToolTip": "ProjectAngular Sever\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T09:36:56.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Entites\\User.cs",
+              "RelativeDocumentMoniker": "Entites\\User.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Entites\\User.cs",
+              "RelativeToolTip": "Entites\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:59:06.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-31T12:22:39.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectAngularServer.http",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\ProjectAngularServer.http",
+              "RelativeDocumentMoniker": "ProjectAngular Sever\\ProjectAngularServer.http",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\ProjectAngularServer.http",
+              "RelativeToolTip": "ProjectAngular Sever\\ProjectAngularServer.http",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-31T12:22:39.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjectAngular Sever\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjectAngular Sever\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T12:22:39.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectAngularServer",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\ProjectAngularServer.csproj",
+              "RelativeDocumentMoniker": "ProjectAngular Sever\\ProjectAngularServer.csproj",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\ProjectAngular Sever\\ProjectAngularServer.csproj",
+              "RelativeToolTip": "ProjectAngular Sever\\ProjectAngularServer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T09:37:00.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ProjectAngular Sever\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-31T12:22:39.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

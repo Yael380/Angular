@@ -1,0 +1,37 @@
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\appsettings.Development.json
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\appsettings.json
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\ProjectAngular Sever.exe
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\ProjectAngular Sever.deps.json
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\ProjectAngular Sever.runtimeconfig.json
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\ProjectAngular Sever.dll
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\ProjectAngular Sever.pdb
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\ProjectAngular Sever.csproj.AssemblyReference.cache
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\ProjectAngular Sever.GeneratedMSBuildEditorConfig.editorconfig
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\ProjectAngular Sever.AssemblyInfoInputs.cache
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\ProjectAngular Sever.AssemblyInfo.cs
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\ProjectAngular Sever.csproj.CoreCompileInputs.cache
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\ProjectAngular Sever.MvcApplicationPartsAssemblyInfo.cache
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\staticwebassets.build.json
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\staticwebassets.development.json
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\staticwebassets\msbuild.ProjectAngular Sever.Microsoft.AspNetCore.StaticWebAssets.props
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjectAngular Sever.props
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjectAngular Sever.props
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjectAngular Sever.props
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\staticwebassets.pack.json
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\scopedcss\bundle\ProjectAngular Sever.styles.css
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\ProjectAngular Sever.csproj.CopyComplete
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\ProjectAngular Sever.dll
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\refint\ProjectAngular Sever.dll
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\ProjectAngular Sever.pdb
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\ProjectAngular Sever.genruntimeconfig.cache
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\obj\Debug\net8.0\ref\ProjectAngular Sever.dll
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\Entites.dll
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\Repository.dll
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\Service.dll
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\Service.pdb
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\Entites.pdb
+C:\מסלול\ProjectAngular Sever\ProjectAngular Sever\bin\Debug\net8.0\Repository.pdb

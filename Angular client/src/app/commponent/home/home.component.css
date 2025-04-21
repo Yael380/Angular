@@ -1,0 +1,12 @@
+body{
+    background-image: url('http://localhost:5148/aaa.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    position: absolute;
+    width: 96.2vw;
+    margin-left: 0px;
+
+}

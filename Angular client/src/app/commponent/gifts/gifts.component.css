@@ -1,0 +1,12 @@
+:host ::ng-deep .p-dialog .product-image {
+    width: 150px;
+    margin: 0 auto 2rem auto;
+    display: block;
+}
+p-tag{
+    background-color: white;
+    color: black;
+}
+:host ::ng-deep .p-dialog {
+    display: block !important; /* מבטל כל שינוי ש-PrimeFlex עשוי לעשות */
+}

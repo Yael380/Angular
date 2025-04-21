@@ -1,0 +1,24 @@
+<link href="https://unpkg.com/primeflex/primeflex.css" rel="stylesheet" />
+<h2>Winners</h2>
+    <div class="card" >
+        <p-table [value]="products" stripedRows [tableStyle]="{'min-width': '50rem'}">
+            <ng-template #header>
+                <tr>
+                    <th>Gift name</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                </tr>
+            </ng-template>
+            <ng-template #body let-product>
+            @if(product.winner){
+                <tr>
+                    <td>{{product.name +":"}}</td>
+                    <td>{{product.winner.name}}</td>
+                    <td>{{product.winner.email}}</td>
+                    <td>{{product.winner.phone}}</td>
+                </tr>
+            }
+            </ng-template>
+        </p-table>
+    </div>

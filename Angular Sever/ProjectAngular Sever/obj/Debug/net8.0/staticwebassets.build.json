@@ -1,0 +1,3009 @@
+{
+  "Version": 1,
+  "Hash": "fGVYYiM5nfppFSmiYawin/Lo67VH7TayuSHh4tsVxZ4=",
+  "Source": "ProjectAngularServer",
+  "BasePath": "_content/ProjectAngularServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjectAngularServer\\wwwroot",
+      "Source": "ProjectAngularServer",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\1.webp",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "1#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a6k7boz6wt",
+      "Integrity": "HqMIpWXeAomr72WfLstkTKFAH87Z/tgRbmkpYzaSnco=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1.webp"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\10.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "10#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qpukft9l1h",
+      "Integrity": "glQ0q5nAkYvr9GwKJM5MNjOG3/LIyoUAvKI4BHe13RM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\10.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\11.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "11#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f4mq2qll9r",
+      "Integrity": "gZMIdkn8x27PS8wzkYDQ9UQ2jGt7P0WvsqUZqDvFssI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\11.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\12.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u7uvb9afjj",
+      "Integrity": "Rkb0Hi6CcJLLi39TbXio+qksatRsoJ8U4p0czWr0YSc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\12.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\13.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "13#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0bepxetbku",
+      "Integrity": "rF1iEPzMd6MatR4NdAI5DTu59gn9Z074jQevN/uTLwI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\13.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\14.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q9xitd0lew",
+      "Integrity": "7kkoQzu3s2siuvGpJFgZq+m/ZmB+d2RUVYp/0VNncdw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\14.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\15.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "15#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mv0nh6ixm8",
+      "Integrity": "zrIgcfcpHrmQlyP7WS8yAY4IBVrMB5A9oNAGM5Bm6Sw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\15.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\16.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "16#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7yq1vgm84j",
+      "Integrity": "UaIcUxOP27japyO4XOtclwlmAVmBiieDpf9mWYi7/t4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\16.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\17.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "17#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yv07ee4hui",
+      "Integrity": "Pkaly78dKsVruhWxw3mQxpuaGF0BUrYS0MHPEQwRV44=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\17.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\18.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "18#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wuh3m07i4t",
+      "Integrity": "KEPITBH3eXwEf+5ZnMY7hmaYb6CMc+jXvqIP+hQ9hXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\18.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\19.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "19#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ep2lozm66h",
+      "Integrity": "8mQlCEs+1i4BMPz7gR9YjMhEq2PY/31y/tB2qo24W8I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\19.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\2.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h90jr9jfsc",
+      "Integrity": "FTdRoqFMpdxmxQwxFtSozMMUyWetIcJQYjJw/ArFCtk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\2.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\20.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "20#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c81rw96owb",
+      "Integrity": "BH3s8j0e4gTq57zmNNW1w3RXiaGAwZf0cylNzVvs3vM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\20.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\21.webp",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "21#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsrztdrfhj",
+      "Integrity": "enhECeddljs+KFNlrrchnAyLjo6BgaRMVjXM/NAW8gc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\21.webp"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\22.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "22#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ij73dk7dgd",
+      "Integrity": "7vWaAamRGJ84nRcf3iKQXQGQkstouL1FQmCyzBBh/Ng=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\22.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\23.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "23#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0bepxetbku",
+      "Integrity": "rF1iEPzMd6MatR4NdAI5DTu59gn9Z074jQevN/uTLwI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\23.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\24.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "24#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "96a4tpjpb9",
+      "Integrity": "gb11EZV1fM1ygAFQ+EslJgzW2NeCJxfOJ70CR71sQtI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\24.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\25.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "25#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fy9imzwzx9",
+      "Integrity": "GfswnhMV4znUF3S+flaA75lYKF8h5srsdISZZc1IOaE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\25.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\26.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "26#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xl0sk1y1k3",
+      "Integrity": "FYpdoRTU4xkPjYfpWY/ITnOLkwARMyjnD6dV21/Qeb8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\26.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\3.webp",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "3#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nxwpruzklz",
+      "Integrity": "+9VyuGG0w35wqseJXJ70JbW2pLVlkCPy8SyPb8XpONg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\3.webp"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\4.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fay0m3emg4",
+      "Integrity": "aTDfkog8EMa5gCexvKbbHlPgxx4Xtu3cckbZ/IkXU/g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\4.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\5.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j7ma58qh4s",
+      "Integrity": "77MKZI4BOHd59xN0FKwUKZjFKYJbV54QyaE9QB8YwK8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\5.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\54.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "54#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jrsnk5jfqt",
+      "Integrity": "X6lIMz2+Q+hLK9RoyA2170ZVG6H4USa6Yc7oGmcXpz0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\54.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\6.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bsi4xqnuge",
+      "Integrity": "5W58/L89aZDTx/qcjjaxOULgT/ln0145NoLTo+k+s9k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\6.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\7.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bb80w4icyd",
+      "Integrity": "6QXRjncIQ662ZsIgTPDMvKhrOhsIWwIod/dMjVjw/0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\7.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\8.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rhya6uwo66",
+      "Integrity": "H8sGzpm1CCoZZFt9oHSe2nkaIXgzGt5gO2mlIbArLy8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\8.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\9.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2261crhg1n",
+      "Integrity": "FkOrPUTjLE+mvpNXENKMirt58I9DOna+S3hK51e0U3Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\9.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\aaa.jpg",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "aaa#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b0bpjlg7p8",
+      "Integrity": "BdXZSj41tt3fbTike8Q4qpwv6aCYl5sx3TRB5umwe/8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\aaa.jpg"
+    },
+    {
+      "Identity": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\favicon.ico",
+      "SourceId": "ProjectAngularServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\",
+      "BasePath": "_content/ProjectAngularServer",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vagikyz9qx",
+      "Integrity": "+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "1.a6k7boz6wt.webp",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "402374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HqMIpWXeAomr72WfLstkTKFAH87Z/tgRbmkpYzaSnco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6k7boz6wt"
+        },
+        {
+          "Name": "label",
+          "Value": "1.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqMIpWXeAomr72WfLstkTKFAH87Z/tgRbmkpYzaSnco="
+        }
+      ]
+    },
+    {
+      "Route": "1.webp",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "402374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HqMIpWXeAomr72WfLstkTKFAH87Z/tgRbmkpYzaSnco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqMIpWXeAomr72WfLstkTKFAH87Z/tgRbmkpYzaSnco="
+        }
+      ]
+    },
+    {
+      "Route": "10.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1113436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"glQ0q5nAkYvr9GwKJM5MNjOG3/LIyoUAvKI4BHe13RM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-glQ0q5nAkYvr9GwKJM5MNjOG3/LIyoUAvKI4BHe13RM="
+        }
+      ]
+    },
+    {
+      "Route": "10.qpukft9l1h.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1113436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"glQ0q5nAkYvr9GwKJM5MNjOG3/LIyoUAvKI4BHe13RM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qpukft9l1h"
+        },
+        {
+          "Name": "label",
+          "Value": "10.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-glQ0q5nAkYvr9GwKJM5MNjOG3/LIyoUAvKI4BHe13RM="
+        }
+      ]
+    },
+    {
+      "Route": "11.f4mq2qll9r.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "568240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gZMIdkn8x27PS8wzkYDQ9UQ2jGt7P0WvsqUZqDvFssI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f4mq2qll9r"
+        },
+        {
+          "Name": "label",
+          "Value": "11.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gZMIdkn8x27PS8wzkYDQ9UQ2jGt7P0WvsqUZqDvFssI="
+        }
+      ]
+    },
+    {
+      "Route": "11.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "568240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gZMIdkn8x27PS8wzkYDQ9UQ2jGt7P0WvsqUZqDvFssI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gZMIdkn8x27PS8wzkYDQ9UQ2jGt7P0WvsqUZqDvFssI="
+        }
+      ]
+    },
+    {
+      "Route": "12.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1031587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rkb0Hi6CcJLLi39TbXio+qksatRsoJ8U4p0czWr0YSc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rkb0Hi6CcJLLi39TbXio+qksatRsoJ8U4p0czWr0YSc="
+        }
+      ]
+    },
+    {
+      "Route": "12.u7uvb9afjj.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1031587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rkb0Hi6CcJLLi39TbXio+qksatRsoJ8U4p0czWr0YSc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u7uvb9afjj"
+        },
+        {
+          "Name": "label",
+          "Value": "12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rkb0Hi6CcJLLi39TbXio+qksatRsoJ8U4p0czWr0YSc="
+        }
+      ]
+    },
+    {
+      "Route": "13.0bepxetbku.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rF1iEPzMd6MatR4NdAI5DTu59gn9Z074jQevN/uTLwI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0bepxetbku"
+        },
+        {
+          "Name": "label",
+          "Value": "13.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rF1iEPzMd6MatR4NdAI5DTu59gn9Z074jQevN/uTLwI="
+        }
+      ]
+    },
+    {
+      "Route": "13.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rF1iEPzMd6MatR4NdAI5DTu59gn9Z074jQevN/uTLwI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rF1iEPzMd6MatR4NdAI5DTu59gn9Z074jQevN/uTLwI="
+        }
+      ]
+    },
+    {
+      "Route": "14.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1085738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7kkoQzu3s2siuvGpJFgZq+m/ZmB+d2RUVYp/0VNncdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7kkoQzu3s2siuvGpJFgZq+m/ZmB+d2RUVYp/0VNncdw="
+        }
+      ]
+    },
+    {
+      "Route": "14.q9xitd0lew.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1085738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7kkoQzu3s2siuvGpJFgZq+m/ZmB+d2RUVYp/0VNncdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q9xitd0lew"
+        },
+        {
+          "Name": "label",
+          "Value": "14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7kkoQzu3s2siuvGpJFgZq+m/ZmB+d2RUVYp/0VNncdw="
+        }
+      ]
+    },
+    {
+      "Route": "15.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "969857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zrIgcfcpHrmQlyP7WS8yAY4IBVrMB5A9oNAGM5Bm6Sw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zrIgcfcpHrmQlyP7WS8yAY4IBVrMB5A9oNAGM5Bm6Sw="
+        }
+      ]
+    },
+    {
+      "Route": "15.mv0nh6ixm8.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "969857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zrIgcfcpHrmQlyP7WS8yAY4IBVrMB5A9oNAGM5Bm6Sw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mv0nh6ixm8"
+        },
+        {
+          "Name": "label",
+          "Value": "15.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zrIgcfcpHrmQlyP7WS8yAY4IBVrMB5A9oNAGM5Bm6Sw="
+        }
+      ]
+    },
+    {
+      "Route": "16.7yq1vgm84j.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "818094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UaIcUxOP27japyO4XOtclwlmAVmBiieDpf9mWYi7/t4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7yq1vgm84j"
+        },
+        {
+          "Name": "label",
+          "Value": "16.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UaIcUxOP27japyO4XOtclwlmAVmBiieDpf9mWYi7/t4="
+        }
+      ]
+    },
+    {
+      "Route": "16.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "818094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UaIcUxOP27japyO4XOtclwlmAVmBiieDpf9mWYi7/t4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UaIcUxOP27japyO4XOtclwlmAVmBiieDpf9mWYi7/t4="
+        }
+      ]
+    },
+    {
+      "Route": "17.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\17.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "685009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pkaly78dKsVruhWxw3mQxpuaGF0BUrYS0MHPEQwRV44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pkaly78dKsVruhWxw3mQxpuaGF0BUrYS0MHPEQwRV44="
+        }
+      ]
+    },
+    {
+      "Route": "17.yv07ee4hui.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\17.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "685009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pkaly78dKsVruhWxw3mQxpuaGF0BUrYS0MHPEQwRV44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yv07ee4hui"
+        },
+        {
+          "Name": "label",
+          "Value": "17.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pkaly78dKsVruhWxw3mQxpuaGF0BUrYS0MHPEQwRV44="
+        }
+      ]
+    },
+    {
+      "Route": "18.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KEPITBH3eXwEf+5ZnMY7hmaYb6CMc+jXvqIP+hQ9hXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KEPITBH3eXwEf+5ZnMY7hmaYb6CMc+jXvqIP+hQ9hXk="
+        }
+      ]
+    },
+    {
+      "Route": "18.wuh3m07i4t.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KEPITBH3eXwEf+5ZnMY7hmaYb6CMc+jXvqIP+hQ9hXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wuh3m07i4t"
+        },
+        {
+          "Name": "label",
+          "Value": "18.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KEPITBH3eXwEf+5ZnMY7hmaYb6CMc+jXvqIP+hQ9hXk="
+        }
+      ]
+    },
+    {
+      "Route": "19.ep2lozm66h.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "723177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8mQlCEs+1i4BMPz7gR9YjMhEq2PY/31y/tB2qo24W8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ep2lozm66h"
+        },
+        {
+          "Name": "label",
+          "Value": "19.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8mQlCEs+1i4BMPz7gR9YjMhEq2PY/31y/tB2qo24W8I="
+        }
+      ]
+    },
+    {
+      "Route": "19.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "723177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8mQlCEs+1i4BMPz7gR9YjMhEq2PY/31y/tB2qo24W8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8mQlCEs+1i4BMPz7gR9YjMhEq2PY/31y/tB2qo24W8I="
+        }
+      ]
+    },
+    {
+      "Route": "2.h90jr9jfsc.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "951373"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FTdRoqFMpdxmxQwxFtSozMMUyWetIcJQYjJw/ArFCtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h90jr9jfsc"
+        },
+        {
+          "Name": "label",
+          "Value": "2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FTdRoqFMpdxmxQwxFtSozMMUyWetIcJQYjJw/ArFCtk="
+        }
+      ]
+    },
+    {
+      "Route": "2.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "951373"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FTdRoqFMpdxmxQwxFtSozMMUyWetIcJQYjJw/ArFCtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FTdRoqFMpdxmxQwxFtSozMMUyWetIcJQYjJw/ArFCtk="
+        }
+      ]
+    },
+    {
+      "Route": "20.c81rw96owb.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\20.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "828420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BH3s8j0e4gTq57zmNNW1w3RXiaGAwZf0cylNzVvs3vM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c81rw96owb"
+        },
+        {
+          "Name": "label",
+          "Value": "20.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BH3s8j0e4gTq57zmNNW1w3RXiaGAwZf0cylNzVvs3vM="
+        }
+      ]
+    },
+    {
+      "Route": "20.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\20.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "828420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BH3s8j0e4gTq57zmNNW1w3RXiaGAwZf0cylNzVvs3vM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BH3s8j0e4gTq57zmNNW1w3RXiaGAwZf0cylNzVvs3vM="
+        }
+      ]
+    },
+    {
+      "Route": "21.qsrztdrfhj.webp",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\21.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"enhECeddljs+KFNlrrchnAyLjo6BgaRMVjXM/NAW8gc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsrztdrfhj"
+        },
+        {
+          "Name": "label",
+          "Value": "21.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-enhECeddljs+KFNlrrchnAyLjo6BgaRMVjXM/NAW8gc="
+        }
+      ]
+    },
+    {
+      "Route": "21.webp",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\21.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"enhECeddljs+KFNlrrchnAyLjo6BgaRMVjXM/NAW8gc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-enhECeddljs+KFNlrrchnAyLjo6BgaRMVjXM/NAW8gc="
+        }
+      ]
+    },
+    {
+      "Route": "22.ij73dk7dgd.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\22.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1007746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7vWaAamRGJ84nRcf3iKQXQGQkstouL1FQmCyzBBh/Ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ij73dk7dgd"
+        },
+        {
+          "Name": "label",
+          "Value": "22.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7vWaAamRGJ84nRcf3iKQXQGQkstouL1FQmCyzBBh/Ng="
+        }
+      ]
+    },
+    {
+      "Route": "22.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\22.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1007746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7vWaAamRGJ84nRcf3iKQXQGQkstouL1FQmCyzBBh/Ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7vWaAamRGJ84nRcf3iKQXQGQkstouL1FQmCyzBBh/Ng="
+        }
+      ]
+    },
+    {
+      "Route": "23.0bepxetbku.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rF1iEPzMd6MatR4NdAI5DTu59gn9Z074jQevN/uTLwI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0bepxetbku"
+        },
+        {
+          "Name": "label",
+          "Value": "23.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rF1iEPzMd6MatR4NdAI5DTu59gn9Z074jQevN/uTLwI="
+        }
+      ]
+    },
+    {
+      "Route": "23.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rF1iEPzMd6MatR4NdAI5DTu59gn9Z074jQevN/uTLwI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rF1iEPzMd6MatR4NdAI5DTu59gn9Z074jQevN/uTLwI="
+        }
+      ]
+    },
+    {
+      "Route": "24.96a4tpjpb9.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\24.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "502364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gb11EZV1fM1ygAFQ+EslJgzW2NeCJxfOJ70CR71sQtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "96a4tpjpb9"
+        },
+        {
+          "Name": "label",
+          "Value": "24.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gb11EZV1fM1ygAFQ+EslJgzW2NeCJxfOJ70CR71sQtI="
+        }
+      ]
+    },
+    {
+      "Route": "24.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\24.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "502364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gb11EZV1fM1ygAFQ+EslJgzW2NeCJxfOJ70CR71sQtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gb11EZV1fM1ygAFQ+EslJgzW2NeCJxfOJ70CR71sQtI="
+        }
+      ]
+    },
+    {
+      "Route": "25.fy9imzwzx9.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\25.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "410353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GfswnhMV4znUF3S+flaA75lYKF8h5srsdISZZc1IOaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fy9imzwzx9"
+        },
+        {
+          "Name": "label",
+          "Value": "25.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GfswnhMV4znUF3S+flaA75lYKF8h5srsdISZZc1IOaE="
+        }
+      ]
+    },
+    {
+      "Route": "25.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\25.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "410353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GfswnhMV4znUF3S+flaA75lYKF8h5srsdISZZc1IOaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GfswnhMV4znUF3S+flaA75lYKF8h5srsdISZZc1IOaE="
+        }
+      ]
+    },
+    {
+      "Route": "26.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\26.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "665532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FYpdoRTU4xkPjYfpWY/ITnOLkwARMyjnD6dV21/Qeb8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FYpdoRTU4xkPjYfpWY/ITnOLkwARMyjnD6dV21/Qeb8="
+        }
+      ]
+    },
+    {
+      "Route": "26.xl0sk1y1k3.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\26.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "665532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FYpdoRTU4xkPjYfpWY/ITnOLkwARMyjnD6dV21/Qeb8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xl0sk1y1k3"
+        },
+        {
+          "Name": "label",
+          "Value": "26.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FYpdoRTU4xkPjYfpWY/ITnOLkwARMyjnD6dV21/Qeb8="
+        }
+      ]
+    },
+    {
+      "Route": "3.nxwpruzklz.webp",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+9VyuGG0w35wqseJXJ70JbW2pLVlkCPy8SyPb8XpONg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nxwpruzklz"
+        },
+        {
+          "Name": "label",
+          "Value": "3.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+9VyuGG0w35wqseJXJ70JbW2pLVlkCPy8SyPb8XpONg="
+        }
+      ]
+    },
+    {
+      "Route": "3.webp",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+9VyuGG0w35wqseJXJ70JbW2pLVlkCPy8SyPb8XpONg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+9VyuGG0w35wqseJXJ70JbW2pLVlkCPy8SyPb8XpONg="
+        }
+      ]
+    },
+    {
+      "Route": "4.fay0m3emg4.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "925783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aTDfkog8EMa5gCexvKbbHlPgxx4Xtu3cckbZ/IkXU/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fay0m3emg4"
+        },
+        {
+          "Name": "label",
+          "Value": "4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aTDfkog8EMa5gCexvKbbHlPgxx4Xtu3cckbZ/IkXU/g="
+        }
+      ]
+    },
+    {
+      "Route": "4.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "925783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aTDfkog8EMa5gCexvKbbHlPgxx4Xtu3cckbZ/IkXU/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aTDfkog8EMa5gCexvKbbHlPgxx4Xtu3cckbZ/IkXU/g="
+        }
+      ]
+    },
+    {
+      "Route": "5.j7ma58qh4s.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "734012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"77MKZI4BOHd59xN0FKwUKZjFKYJbV54QyaE9QB8YwK8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j7ma58qh4s"
+        },
+        {
+          "Name": "label",
+          "Value": "5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-77MKZI4BOHd59xN0FKwUKZjFKYJbV54QyaE9QB8YwK8="
+        }
+      ]
+    },
+    {
+      "Route": "5.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "734012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"77MKZI4BOHd59xN0FKwUKZjFKYJbV54QyaE9QB8YwK8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-77MKZI4BOHd59xN0FKwUKZjFKYJbV54QyaE9QB8YwK8="
+        }
+      ]
+    },
+    {
+      "Route": "54.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\54.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X6lIMz2+Q+hLK9RoyA2170ZVG6H4USa6Yc7oGmcXpz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 17:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X6lIMz2+Q+hLK9RoyA2170ZVG6H4USa6Yc7oGmcXpz0="
+        }
+      ]
+    },
+    {
+      "Route": "54.jrsnk5jfqt.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\54.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X6lIMz2+Q+hLK9RoyA2170ZVG6H4USa6Yc7oGmcXpz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 17:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jrsnk5jfqt"
+        },
+        {
+          "Name": "label",
+          "Value": "54.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X6lIMz2+Q+hLK9RoyA2170ZVG6H4USa6Yc7oGmcXpz0="
+        }
+      ]
+    },
+    {
+      "Route": "6.bsi4xqnuge.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "750770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5W58/L89aZDTx/qcjjaxOULgT/ln0145NoLTo+k+s9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bsi4xqnuge"
+        },
+        {
+          "Name": "label",
+          "Value": "6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5W58/L89aZDTx/qcjjaxOULgT/ln0145NoLTo+k+s9k="
+        }
+      ]
+    },
+    {
+      "Route": "6.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "750770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5W58/L89aZDTx/qcjjaxOULgT/ln0145NoLTo+k+s9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5W58/L89aZDTx/qcjjaxOULgT/ln0145NoLTo+k+s9k="
+        }
+      ]
+    },
+    {
+      "Route": "7.bb80w4icyd.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6QXRjncIQ662ZsIgTPDMvKhrOhsIWwIod/dMjVjw/0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bb80w4icyd"
+        },
+        {
+          "Name": "label",
+          "Value": "7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6QXRjncIQ662ZsIgTPDMvKhrOhsIWwIod/dMjVjw/0I="
+        }
+      ]
+    },
+    {
+      "Route": "7.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6QXRjncIQ662ZsIgTPDMvKhrOhsIWwIod/dMjVjw/0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6QXRjncIQ662ZsIgTPDMvKhrOhsIWwIod/dMjVjw/0I="
+        }
+      ]
+    },
+    {
+      "Route": "8.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1051986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H8sGzpm1CCoZZFt9oHSe2nkaIXgzGt5gO2mlIbArLy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H8sGzpm1CCoZZFt9oHSe2nkaIXgzGt5gO2mlIbArLy8="
+        }
+      ]
+    },
+    {
+      "Route": "8.rhya6uwo66.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1051986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H8sGzpm1CCoZZFt9oHSe2nkaIXgzGt5gO2mlIbArLy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rhya6uwo66"
+        },
+        {
+          "Name": "label",
+          "Value": "8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H8sGzpm1CCoZZFt9oHSe2nkaIXgzGt5gO2mlIbArLy8="
+        }
+      ]
+    },
+    {
+      "Route": "9.2261crhg1n.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1027443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FkOrPUTjLE+mvpNXENKMirt58I9DOna+S3hK51e0U3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2261crhg1n"
+        },
+        {
+          "Name": "label",
+          "Value": "9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FkOrPUTjLE+mvpNXENKMirt58I9DOna+S3hK51e0U3Q="
+        }
+      ]
+    },
+    {
+      "Route": "9.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1027443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FkOrPUTjLE+mvpNXENKMirt58I9DOna+S3hK51e0U3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FkOrPUTjLE+mvpNXENKMirt58I9DOna+S3hK51e0U3Q="
+        }
+      ]
+    },
+    {
+      "Route": "aaa.b0bpjlg7p8.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\aaa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BdXZSj41tt3fbTike8Q4qpwv6aCYl5sx3TRB5umwe/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 13:08:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b0bpjlg7p8"
+        },
+        {
+          "Name": "label",
+          "Value": "aaa.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BdXZSj41tt3fbTike8Q4qpwv6aCYl5sx3TRB5umwe/8="
+        }
+      ]
+    },
+    {
+      "Route": "aaa.jpg",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\aaa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BdXZSj41tt3fbTike8Q4qpwv6aCYl5sx3TRB5umwe/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 13:08:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BdXZSj41tt3fbTike8Q4qpwv6aCYl5sx3TRB5umwe/8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico",
+      "AssetFile": "D:\\פרויקטים\\ProjectAngular Sever\\ProjectAngular Sever\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    }
+  ]
+}

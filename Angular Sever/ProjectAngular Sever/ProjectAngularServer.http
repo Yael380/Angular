@@ -1,0 +1,6 @@
+@ProjectAngular_Sever_HostAddress = http://localhost:5148
+
+GET {{ProjectAngular_Sever_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
